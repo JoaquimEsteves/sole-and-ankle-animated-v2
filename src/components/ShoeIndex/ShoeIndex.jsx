@@ -1,13 +1,13 @@
-import React from 'react';
-import styled from 'styled-components';
+import React from "react";
+import styled from "styled-components";
 
-import { QUERIES, WEIGHTS } from '../../constants';
+import { QUERIES, WEIGHTS } from "../../constants";
 
-import Breadcrumbs from '../Breadcrumbs';
-import Select from '../Select';
-import Spacer from '../Spacer';
-import ShoeSidebar from '../ShoeSidebar';
-import ShoeGrid from '../ShoeGrid';
+import Breadcrumbs from "../Breadcrumbs";
+import Select from "../Select";
+import Spacer from "../Spacer";
+import ShoeSidebar from "../ShoeSidebar";
+import ShoeGrid from "../ShoeGrid";
 
 const ShoeBreadcrumbs = () => {
   return (
